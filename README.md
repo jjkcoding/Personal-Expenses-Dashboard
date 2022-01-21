@@ -1,5 +1,5 @@
 # Personal Expenses Dashboard: Project Overview
-* Displayed a rough analysis through pivot tables in excel
+* Displayed a rough analysis through pivot tables in Excel
 * Cleaned data and added categories using Python
 * Plotted and discovered key information using Tableau
 * Designed an interactive dashboard of my expenses using Tableau
