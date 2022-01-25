@@ -31,4 +31,7 @@
 * Planned a dashboard with the above information
 * Tableau Link: https://public.tableau.com/app/profile/joshua.kim6929/viz/ExpensesFeb2021-Feb2022/ExpensesDashboard
 * Tableau File Name: "Expenses (Feb 2021 - Feb 2022).twbx"
-![Expenses Dashboard](https://user-images.githubusercontent.com/43764400/150590859-b9918808-3e40-42b3-8221-b63e38b4d360.png)
+![Expenses Dashboard](https://user-images.githubusercontent.com/43764400/151028919-22ab43aa-deff-4e4a-a4ba-b4fd1083cf12.png)
+
+
+
