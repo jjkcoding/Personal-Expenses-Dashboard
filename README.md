@@ -1,8 +1,8 @@
 # Personal Expenses Dashboard: Project Overview
-* Displayed a rough analysis through pivot tables in Excel
-* Cleaned data and added categories using Python
-* Plotted and discovered key information using Tableau
-* Designed an interactive dashboard of my expenses using Tableau
+* Conducted data analysis by utilizing pivot tables in Excel, which provided a rough analysis of the data.
+* Cleaned the data and added categories using Python, which allowed for a more in-depth analysis of the data.
+* Plotted and discovered key information using Tableau, which enabled the visualization of the data and helped identify patterns and trends.
+* Designed an interactive dashboard of my expenses using Tableau, which presented the data in a visually appealing and user-friendly way.
 * **Coding Languages:** Excel, Python, Tableau
 
 
